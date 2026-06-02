@@ -1,4 +1,3 @@
-# num1 é o dicionário da agenda
 num1 = {}
 
 def adicionar_contato():
